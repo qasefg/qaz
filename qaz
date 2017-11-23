@@ -17,7 +17,7 @@ g.setFont(f);
 drawCenteredString("16130567"
   + "16130569"
   + "16130163"
-  + "Алексеенко", d.width, d.height, g);
+  + "Алексеенкои", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
 }
 
